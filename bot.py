@@ -7,7 +7,8 @@ from datetime import datetime
 # ============================================================
 #  CONFIG
 # ============================================================
-TOKEN = "TON_TOKEN_ICI"
+TOKEN = "MTUwODMyNzIxMjI4MDE4NDg5Mg.GFLAXI.oqqCKVZZCIm1X8enYpR4g4GDwVbEtth84Nb1f0"
+
 
 OWNER_ID = 1507830698743038122
 LOG_CHANNEL_ID = 1508323846636306594
