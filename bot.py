@@ -7,7 +7,8 @@ from datetime import datetime
 # ============================================================
 #  CONFIG
 # ============================================================
-TOKEN = "MTUwODMyNzIxMjI4MDE4NDg5Mg.GFLAXI.oqqCKVZZCIm1X8enYpR4g4GDwVbEtth84Nb1f0"
+TOKEN = "MTUwODMyNzIxMjI4MDE4NDg5Mg.G5aWvw.D8QE5AvTL_CWEGXXlvTxklSD1S4_sAseWaQxQo"
+
 
 
 OWNER_ID = 1507830698743038122
